@@ -35,3 +35,5 @@ Features:
 	-Scorecard at the end of a round should be in portrait mode
 	-Words that were skipped shall also be in the end scorecard
 	(Feel free to add mroe things, this was a pretty quick list)
+
+
