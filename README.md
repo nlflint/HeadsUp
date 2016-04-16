@@ -34,6 +34,7 @@ Features:
 	-There shall be an indication that the round has ended
 	-Scorecard at the end of a round should be in portrait mode
 	-Words that were skipped shall also be in the end scorecard
+	-Scorecard at end will be a different activity
 	(Feel free to add mroe things, this was a pretty quick list)
 
 
